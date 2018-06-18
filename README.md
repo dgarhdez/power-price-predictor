@@ -5,3 +5,5 @@ Forecasting of the day-ahead electricity price in Spain, using public data from 
 
 Assembles several regression methods - linear model, CART, kNN... - and averages the outputs to predict the price.
 
+Requires a token to make requests - https://www.esios.ree.es/es/pagina/api
+
